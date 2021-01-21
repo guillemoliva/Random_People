@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuProfile"
+        android:title="@string/profile"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuLanguage"
+        android:title="@string/language"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuTheme"
+        android:title="@string/theme"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuPassword"
+        android:title="@string/password"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuContact"
+        android:title="@string/contactUs"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuLogout"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+
+</menu>

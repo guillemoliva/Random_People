@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="languages">
+        <item>Afrikkans</item>
+        <item>Arabic</item>
+        <item>Belarusian</item>
+        <item>Bulgarian</item>
+        <item>Bengali</item>
+        <item>Catalan</item>
+        <item>Czech</item>
+        <item>Welsh</item>
+        <item>Danish</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Spanish</item>
+        <item>Estonian</item>
+        <item>Persian</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Irish</item>
+        <item>Galician</item>
+        <item>Gujarati</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Croatian</item>
+        <item>Haitian</item>
+        <item>Hungarian</item>
+        <item>Indonesian</item>
+        <item>Icelandic</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Georgian</item>
+        <item>Kannada</item>
+        <item>Korean</item>
+        <item>Lithuanian</item>
+        <item>Latvian</item>
+        <item>Macedonian</item>
+        <item>Marathi</item>
+        <item>Malay</item>
+        <item>Maltese</item>
+        <item>Dutch</item>
+        <item>Norwegian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Romanian</item>
+        <item>Russian</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Albanian</item>
+        <item>Swedish</item>
+        <item>Swahili</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Thai</item>
+        <item>Tagalog</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Urdu</item>
+        <item>Vietnamese</item>
+        <item>Chinese</item>
+
+    </string-array>
+
+    <string-array name="gender">
+        <item>@string/nonbinary</item>
+        <item>@string/man</item>
+        <item>@string/woman</item>
+
+    </string-array>
+    
+    <string-array name="movieGenres">
+        <item>None</item>
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Crime</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>Historical</item>
+        <item>Horror</item>
+        <item>Mystery</item>
+        <item>Political</item>
+        <item>Romance</item>
+        <item>Science Fiction</item>
+        <item>Thriller</item>
+        <item>Western</item>
+    </string-array>
+
+    <string-array name="musicGenres">
+        <item>None</item>
+        <item>Alternative</item>
+        <item>Blues</item>
+        <item>Classical Music</item>
+        <item>Country Music</item>
+        <item>Dubstep</item>
+        <item>Electronic</item>
+        <item>Folk</item>
+        <item>Hip hop</item>
+        <item>Indie</item>
+        <item>Jazz</item>
+        <item>Metal</item>
+        <item>Pop</item>
+        <item>Reggae</item>
+        <item>Reggaeton</item>
+        <item>Rock</item>
+        <item>Soul</item>
+        <item>Techno</item>
+        <item>Punk</item>
+
+    </string-array>
+    
+    <string-array name="hobbies">
+        <item>None</item>
+        <item>Reading</item>
+        <item>Watching TV</item>
+        <item>Travel</item>
+        <item>Collecting</item>
+        <item>Music</item>
+        <item>Videogames</item>
+        <item>Cinema</item>
+        <item>Exercise</item>
+        <item>Watching Sports</item>
+        <item>Cooking</item>
+        <item>Swimming</item>
+        <item>Camping</item>
+        <item>Skiing</item>
+        <item>Writing</item>
+        <item>Painting</item>
+        <item>Dancing</item>
+        <item>Theater</item>
+        <item>Cycling</item>
+    </string-array>
+
+    <string-array name="criterias">
+        <item>@string/hobbies</item>
+        <item>@string/movies</item>
+        <item>@string/musicG</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>@string/systemDefault</item>
+        <item>@string/light</item>
+        <item>@string/dark</item>
+    </string-array>
+
+    <string-array name="appLanguages">
+        <item>@string/english</item>
+        <item>@string/spanish</item>
+    </string-array>
+
+</resources>

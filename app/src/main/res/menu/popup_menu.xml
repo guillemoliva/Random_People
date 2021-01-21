@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popupNewRandomChat"
+        android:title="@string/newRandomChat"
+        android:onClick="onClickRandomChat"/>
+    <item
+        android:id="@+id/popupNewChatSimilar"
+        android:title="@string/newChatSimilar"
+        android:onClick="onClickRandomChatByCriteria"/>
+
+</menu>
